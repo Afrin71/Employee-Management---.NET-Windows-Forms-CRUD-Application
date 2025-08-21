@@ -1,4 +1,4 @@
-Employee Management - .NET Windows Forms CRUD Application
+Project: Employee Management - .NET Windows Forms CRUD Application
 
 This project is a Windows Forms Application built with C# and SQL Server, demonstrating CRUD operations (Create, Read, Update, Delete) for managing employee information. It uses ADO.NET to interact with a SQL Server database.
 
